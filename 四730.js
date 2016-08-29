@@ -1,2 +1,2 @@
 $(document).ready(function(){
-    $(".time").append("<span>¡i²Ä¤@³õ¡j9¤ë04¤é (¥|) 19¡G30</span><br/><span>¡i²Ä¤G³õ¡j9¤ë11¤é (¥|) 19¡G30</span><br/><span>¡i²Ä¤T³õ¡j9¤ë18¤é (¥|) 19¡G30</span><br/><span>¡i²Ä¥|³õ¡j8¤ë25¤é (¥|) 19¡G30</span><br/><span>¡i¨ä¥L®É¶¡¡j¤@¹ï¤@±M·~Á¿®v¿Ô¸ß</span>");
+    $(".time").append("<span>ã€ç¬¬ä¸€å ´ã€‘9æœˆ04æ—¥ (å››) 19ï¼š30</span><br/><span>ã€ç¬¬äºŒå ´ã€‘9æœˆ11æ—¥ (å››) 19ï¼š30</span><br/><span>ã€ç¬¬ä¸‰å ´ã€‘9æœˆ18æ—¥ (å››) 19ï¼š30</span><br/><span>ã€ç¬¬å››å ´ã€‘8æœˆ25æ—¥ (å››) 19ï¼š30</span><br/><span>ã€å…¶ä»–æ™‚é–“ã€‘ä¸€å°ä¸€å°ˆæ¥­è¬›å¸«è«®è©¢</span>");
